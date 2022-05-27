@@ -1,0 +1,1 @@
+df=pd.read_csv('home\home_data.csv')
